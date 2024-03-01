@@ -1,0 +1,24 @@
+{
+  "name": "helpershark",
+  "version": "1.0.0",
+  "description": "helpershark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nnkk01/helpershark.git"
+  }, "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nnkk01/helpershark/issues"
+  }, "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "homepage": "https://github.com/Nnkk01/helpershark#readme"
+  
+}
